@@ -1,0 +1,21 @@
+{
+  "name": "toolchain-agrv",
+  "version": "1.0.0",
+  "description": "GNU toolchain for AgRV devices, including GCC",
+  "keywords": [
+    "toolchain",
+    "gcc",
+    "build",
+    "builder",
+    "compiler",
+    "assembler",
+    "linker",
+    "preprocessor",
+    "risc-v",
+    "agrv",
+    "agm"
+  ],
+  "system": [
+    "windows_amd64"
+  ]
+}
